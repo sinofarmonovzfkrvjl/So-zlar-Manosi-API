@@ -1,0 +1,3 @@
+flastapi
+requests
+beautifulsoup4
